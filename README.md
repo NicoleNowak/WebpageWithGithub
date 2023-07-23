@@ -1,6 +1,6 @@
 # Your personal details
 ### First name: Nicole
-### Last name: Nowakova
+### Last name: Nowak
 
 
 ## 1. Which of the descriptions below accurately describes Git?
@@ -18,8 +18,8 @@
 ## 3. Where are files stored before they are committed to the local repository?
 - git cache
 - git documents
-- **Saved files**
-- Staging area
+- Saved files
+- **Staging area**
 
 ## 4. Which vendor acquired GitHub for $7.5 billion in June 2018?
 - Oracle
