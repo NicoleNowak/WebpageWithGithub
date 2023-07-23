@@ -1,6 +1,6 @@
 # Your personal details
 ### First name: Nicole
-### Last name: Nowak
+### Last name: Nowakova
 
 
 ## 1. Which of the descriptions below accurately describes Git?
